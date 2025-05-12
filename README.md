@@ -8,14 +8,6 @@ This project is a Mini CRM Platform built as part of the Xeno SDE Internship Ass
 [Frontend Link](https://crm-xeno-gamma.vercel.app/)
 [Backend Link](https://crm-xeno.onrender.com)
 
----
-
-## Demo Video
-
-[Demo Video Link](https://youtu.be/DzXMvPxYn38) 
-
----
-
 ## Features Implemented
 
 *   **Data Ingestion APIs:**
